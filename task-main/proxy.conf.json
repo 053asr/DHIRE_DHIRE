@@ -1,0 +1,7 @@
+{
+    "/ai": {
+        "target": "https://stage.app.studiovity.com",
+        "secure": false,
+        "changeOrigin": true
+    }
+}
